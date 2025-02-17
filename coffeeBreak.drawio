@@ -486,17 +486,8 @@
         <mxCell id="Ud_ugtpfHghloITQ3JTs-113" value="Responder à votação/quizz" style="ellipse;whiteSpace=wrap;html=1;" parent="Ud_ugtpfHghloITQ3JTs-106" vertex="1">
           <mxGeometry x="160" y="80" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ud_ugtpfHghloITQ3JTs-108" value="Organizador&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-428" y="1830" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Ud_ugtpfHghloITQ3JTs-109" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Ud_ugtpfHghloITQ3JTs-107" target="Ud_ugtpfHghloITQ3JTs-108" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-9.5" y="1361" as="sourcePoint" />
-            <mxPoint x="108.5" y="1386" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Ud_ugtpfHghloITQ3JTs-111" value="&lt;div&gt;Palestrante&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-428" y="1930" width="30" height="60" as="geometry" />
+          <mxGeometry x="-398" y="1880" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ud_ugtpfHghloITQ3JTs-112" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Ud_ugtpfHghloITQ3JTs-110" target="Ud_ugtpfHghloITQ3JTs-111" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -811,7 +802,7 @@
         <mxCell id="Ud_ugtpfHghloITQ3JTs-205" value="Ver Transmissão" style="ellipse;whiteSpace=wrap;html=1;" parent="Ud_ugtpfHghloITQ3JTs-194" vertex="1">
           <mxGeometry x="170" y="90" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ud_ugtpfHghloITQ3JTs-199" value="Público" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+        <mxCell id="Ud_ugtpfHghloITQ3JTs-199" value="Participante" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="3285" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ud_ugtpfHghloITQ3JTs-202" value="&lt;div&gt;Staff&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
@@ -899,6 +890,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="190" as="sourcePoint" />
             <mxPoint y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mBJYT2wtwATNaXPD2oIs-39" value="Transmissão pode ser também aberta ao público" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="3380" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mBJYT2wtwATNaXPD2oIs-41" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ud_ugtpfHghloITQ3JTs-107" target="Ud_ugtpfHghloITQ3JTs-111">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-260" y="1955" as="sourcePoint" />
+            <mxPoint x="-403" y="1970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
