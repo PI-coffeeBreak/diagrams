@@ -929,12 +929,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_U8UVFNaoYIEyJlqeY0Q-2" value="API Gateway" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="185" width="120" height="590" as="geometry" />
+          <mxGeometry x="240" y="232.5" width="100" height="495" as="geometry" />
         </mxCell>
         <mxCell id="hXMjWjrArY3k8eC1mMrg-3" value="Database" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1216.5" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="725" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EliWhvzbSOG-RIcRLTLN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="1" source="EliWhvzbSOG-RIcRLTLN-2" target="hXMjWjrArY3k8eC1mMrg-3" edge="1">
+        <mxCell id="EliWhvzbSOG-RIcRLTLN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="1" source="EliWhvzbSOG-RIcRLTLN-2" target="hXMjWjrArY3k8eC1mMrg-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EliWhvzbSOG-RIcRLTLN-2" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
@@ -1004,7 +1004,7 @@
             <mxPoint x="11" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v2HyQasZbsRWSs5K9V36-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="v2HyQasZbsRWSs5K9V36-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="940" y="563" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
