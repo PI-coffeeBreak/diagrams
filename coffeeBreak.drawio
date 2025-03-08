@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.1.0" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.1.0" pages="6">
   <diagram name="Use Cases" id="p2EKxRobEqXZzoPl5qkg">
     <mxGraphModel dx="1324" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1125,33 +1125,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Lzx1XFhugi3zXk-oEgyA" name="ComponentsDiagramC4">
-    <mxGraphModel dx="1411" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2634" dy="1342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <object placeholders="1" c4Name="Frontend" c4Type="ContainerScopeBoundary" c4Application="Container" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-2">
-          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="-140" y="80" width="280" height="520" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Name="Admin Panel" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Description of component role/responsibility." label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-3">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="-120" y="100" width="240" height="120" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Name="Event Website" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Description of component role/responsibility." label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-4">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="-120" y="260" width="240" height="120" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Name="Event PWA" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Description of component role/responsibility." label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-5">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="-120" y="420" width="240" height="120" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Name="Reverse Proxy" c4Type="container" c4Technology="Nginx ou HAProxy" c4Description="Description of container role/responsibility." label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&#xa;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;div&gt;[%c4Technology%]&lt;/div&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-6">
+        <object placeholders="1" c4Name="Reverse Proxy" c4Type="container" c4Technology="Nginx ou HAProxy" c4Description="" label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&#xa;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;div&gt;[%c4Technology%]&lt;/div&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-6">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="-120" y="640" width="240" height="120" as="geometry" />
+            <mxGeometry x="-120" y="360" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="API Application" c4Type="ContainerScopeBoundary" c4Application="Container" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-10">
@@ -1159,68 +1139,68 @@
             <mxGeometry x="160" y="80" width="1160" height="680" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Core" c4Type="ContainerScopeBoundary" c4Application="Container" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-11">
+        <object placeholders="1" c4Name="Core" c4Type="ComponentScopeBoundary" c4Application="Component" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-11">
           <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
             <mxGeometry x="460" y="120" width="560" height="600" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="coffeeBreak." c4Type="SystemScopeBoundary" c4Application="System" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: right&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-12">
           <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="-220" y="40" width="1860" height="760" as="geometry" />
+            <mxGeometry x="-160" y="40" width="1800" height="760" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="FOJn8Zu8NHJT7rbCYsab-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="FOJn8Zu8NHJT7rbCYsab-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="30" y="540" as="sourcePoint" />
-            <mxPoint x="160" y="700" as="targetPoint" />
+            <mxPoint x="160" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="WebBrowser&#39;s Push Server" c4Type="Software System" c4Description="Description of external software system." label="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-17">
+        <object placeholders="1" c4Name="WebBrowser&#39;s Push Server" c4Type="System" c4Description="Sends push notifications to web clients" label="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-17">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
             <mxGeometry x="1680" y="280" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Registration Module" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Description of component role/responsibility." label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-19">
+        <object placeholders="1" c4Name="Registration Module" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Verify registrations in the event and/or specific activities" label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-19">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="180" y="280" width="240" height="120" as="geometry" />
+            <mxGeometry x="180" y="360" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Activities Scheduler" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Description of component role/responsibility." label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-20">
+        <object placeholders="1" c4Name="Activities Scheduler" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Create schedules for activities" label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-20">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="180" y="140" width="240" height="120" as="geometry" />
+            <mxGeometry x="180" y="180" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Activities Manager" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Description of component role/responsibility." label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-21">
+        <object placeholders="1" c4Name="Activities Manager" c4Type="component" c4Technology="e.g. Spring Service" c4Description="CRUD operations for activities" label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-21">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
             <mxGeometry x="480" y="180" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Plugins Register" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Description of component role/responsibility." label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-22">
+        <object placeholders="1" c4Name="Plugins Register" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Load modules and register callbacks" label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-22">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
             <mxGeometry x="760" y="180" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="WebPush Notifications Wrapper" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Description of component role/responsibility." label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-23">
+        <object placeholders="1" c4Name="WebPush Notifications Wrapper" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Manage WebPush Notifications and communicates with WebPush Sender" label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-23">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
             <mxGeometry x="1060" y="140" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Speakers Presentation Module" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Description of component role/responsibility." label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-24">
+        <object placeholders="1" c4Name="Speakers Presentation Module" c4Type="component" c4Technology="e.g. Spring Service" c4Description="CRUD operations for speakers pages" label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-24">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
             <mxGeometry x="1060" y="280" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Floor Plan Module" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Description of component role/responsibility." label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-25">
+        <object placeholders="1" c4Name="Floor Plan Module" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Shows the event floor plan" label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-25">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
             <mxGeometry x="1060" y="420" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Alerts Module" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Description of component role/responsibility." label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-26">
+        <object placeholders="1" c4Name="Alerts Module" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Broadcast alerts to clients" label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-26">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="180" y="560" width="240" height="120" as="geometry" />
+            <mxGeometry x="180" y="540" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Message Queue" c4Type="Container" c4Technology="RabbitMQ" c4Description="Description of message bus type container role/responsibility." label="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&#xa;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;div&gt;[%c4Technology%]&lt;/div&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-27">
+        <object placeholders="1" c4Name="Notifications Queue" c4Type="Queue" c4Technology="RabbitMQ" c4Description="" label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&#xa;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;div&gt;[%c4Technology%]&lt;/div&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-27">
           <mxCell style="shape=cylinder3;size=15;direction=south;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
             <mxGeometry x="1360" y="120" width="240" height="120" as="geometry" />
           </mxCell>
@@ -1230,32 +1210,32 @@
             <mxGeometry x="1360" y="280" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Users Manager" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Description of component role/responsibility." label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-31">
+        <object placeholders="1" c4Name="Users Manager" c4Type="component" c4Technology="e.g. Spring Service" c4Description="CRUD operations for users" label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-31">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
             <mxGeometry x="480" y="360" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Event Bus" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Description of component role/responsibility." label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-32">
+        <object placeholders="1" c4Name="Event Bus" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Mediator between modules and event handlers" label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-32">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
             <mxGeometry x="760" y="360" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Messages Bus" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Description of component role/responsibility." label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-33">
+        <object placeholders="1" c4Name="Messages Bus" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Mediator between modules and message senders" label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-33">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
             <mxGeometry x="480" y="540" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Content Manager" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Description of component role/responsibility." label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-34">
+        <object placeholders="1" c4Name="Content Manager" c4Type="component" c4Technology="e.g. Spring Service" c4Description="CRUD operations for Content" label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-34">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
             <mxGeometry x="760" y="540" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Sponsors Promotion Module" c4Type="component" c4Technology="" c4Description="Description of component role/responsibility." label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-35">
+        <object placeholders="1" c4Name="Sponsors Promotion Module" c4Type="component" c4Technology="" c4Description="Shows sponsor branding based on sponsor tier" label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-35">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
             <mxGeometry x="1060" y="560" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="FOJn8Zu8NHJT7rbCYsab-41" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" target="FOJn8Zu8NHJT7rbCYsab-6">
+        <mxCell id="FOJn8Zu8NHJT7rbCYsab-41" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FOJn8Zu8NHJT7rbCYsab-71" target="FOJn8Zu8NHJT7rbCYsab-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="600" as="sourcePoint" />
             <mxPoint x="-110" y="480" as="targetPoint" />
@@ -1269,27 +1249,25 @@
         <mxCell id="FOJn8Zu8NHJT7rbCYsab-42" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="FOJn8Zu8NHJT7rbCYsab-30" target="FOJn8Zu8NHJT7rbCYsab-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FOJn8Zu8NHJT7rbCYsab-56" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="FOJn8Zu8NHJT7rbCYsab-46">
+        <mxCell id="FOJn8Zu8NHJT7rbCYsab-56" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FOJn8Zu8NHJT7rbCYsab-80">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1320" y="540" as="targetPoint" />
+            <mxPoint x="1320" y="530" as="targetPoint" />
+            <mxPoint x="1340" y="540" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="Relational DB" c4Type="Container" c4Technology="PostgreSQL 17" c4Description="Description of storage type container role/responsibility." label="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&#xa;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;div&gt;[%c4Technology%]&lt;/div&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-46">
-          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
-            <mxGeometry x="1360" y="480" width="240" height="120" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="FOJn8Zu8NHJT7rbCYsab-48" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="FOJn8Zu8NHJT7rbCYsab-46" target="FOJn8Zu8NHJT7rbCYsab-30">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="FOJn8Zu8NHJT7rbCYsab-48" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="FOJn8Zu8NHJT7rbCYsab-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1480" y="480" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="FOJn8Zu8NHJT7rbCYsab-49" value="Fetch User WebPush Subscription" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="FOJn8Zu8NHJT7rbCYsab-48">
           <mxGeometry x="0.0013" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="Unified Content DB" c4Type="Container" c4Technology="MongoDB" c4Description="Stores abstract content to be rendered on the frontend" label="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&#xa;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;div&gt;[%c4Technology%]&lt;/div&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-50">
-          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
-            <mxGeometry x="1360" y="640" width="240" height="120" as="geometry" />
+        <object placeholders="1" c4Name="Unified Content DB" c4Type="Container" c4Technology="MongoDB" c4Description="Stores abstract content to be rendered on the frontend" label="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&#xa;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;[%c4Technology%]&lt;/div&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-50">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;resizable=1;rotation=0;" vertex="1" parent="1">
+            <mxGeometry x="1360" y="640" width="240" height="140" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="FOJn8Zu8NHJT7rbCYsab-51" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="FOJn8Zu8NHJT7rbCYsab-34" target="FOJn8Zu8NHJT7rbCYsab-50">
@@ -1327,26 +1305,76 @@
         </mxCell>
         <mxCell id="FOJn8Zu8NHJT7rbCYsab-58" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FOJn8Zu8NHJT7rbCYsab-20" target="FOJn8Zu8NHJT7rbCYsab-21">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="440" y="210" />
-              <mxPoint x="460" y="230" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FOJn8Zu8NHJT7rbCYsab-60" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FOJn8Zu8NHJT7rbCYsab-19" target="FOJn8Zu8NHJT7rbCYsab-31">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="440" y="360" />
-              <mxPoint x="460" y="400" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FOJn8Zu8NHJT7rbCYsab-62" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="FOJn8Zu8NHJT7rbCYsab-27" target="FOJn8Zu8NHJT7rbCYsab-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FOJn8Zu8NHJT7rbCYsab-63" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FOJn8Zu8NHJT7rbCYsab-23" target="FOJn8Zu8NHJT7rbCYsab-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="200" />
+              <mxPoint x="1340" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Frontend (PWA)" c4Type="container" c4Technology="React, Vite" c4Description="Responsive, installable and functional web application interface" label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&#xa;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;div&gt;[%c4Technology%]&lt;/div&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-71">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="-120" y="140" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Authentication" c4Type="container" c4Technology="Keycloak" c4Description="Manages authentication and access control" label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&#xa;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;div&gt;[%c4Technology%]&lt;/div&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-72">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="-120" y="580" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="FOJn8Zu8NHJT7rbCYsab-74" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="FOJn8Zu8NHJT7rbCYsab-72" target="FOJn8Zu8NHJT7rbCYsab-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FOJn8Zu8NHJT7rbCYsab-76" value="Validates Identity" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="FOJn8Zu8NHJT7rbCYsab-74">
+          <mxGeometry x="0.2057" y="1" relative="1" as="geometry">
+            <mxPoint x="51" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Relational DB" c4Type="Container" c4Technology="PostgreSQL 17" c4Description="Stores abstract content to be rendered on the frontend" label="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&#xa;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;[%c4Technology%]&lt;/div&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="FOJn8Zu8NHJT7rbCYsab-80">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;resizable=1;rotation=0;" vertex="1" parent="1">
+            <mxGeometry x="1360" y="460" width="240" height="140" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AMNoqdYkoQXaA_s35z8z" name="Frontend Parts">
+    <mxGraphModel dx="2615" dy="1090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object placeholders="1" c4Name="Frontend" c4Type="ContainerScopeBoundary" c4Application="Container" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="uZ2OfCnHIvREinDxAbto-1">
+          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="-580" y="60" width="280" height="520" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Admin Panel" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Description of component role/responsibility." label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="uZ2OfCnHIvREinDxAbto-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="-560" y="80" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Event Website" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Description of component role/responsibility." label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="uZ2OfCnHIvREinDxAbto-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="-560" y="240" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Event PWA" c4Type="component" c4Technology="e.g. Spring Service" c4Description="Description of component role/responsibility." label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="uZ2OfCnHIvREinDxAbto-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="-560" y="400" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
