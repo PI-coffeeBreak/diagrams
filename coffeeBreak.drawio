@@ -2215,12 +2215,12 @@
         </object>
         <object placeholders="1" c4Name="Registration Module" c4Type="plugin" c4Technology="e.g. Spring Service" c4Description="Verify registrations in the event and/or specific activities" label="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;div&gt;&amp;lt;&amp;lt; %c4Type% &amp;gt;&amp;gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;" id="iUdhUudq_p8aYWjPXkn9-8">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e3c800;fontColor=#FFFFFF;align=center;arcSize=6;strokeColor=#B09500;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="iUdhUudq_p8aYWjPXkn9-1">
-            <mxGeometry x="180" y="360" width="240" height="120" as="geometry" />
+            <mxGeometry x="180" y="420" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Activities Scheduler" c4Type="plugin" c4Technology="e.g. Spring Service" c4Description="Create schedules for activities" label="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;div&gt;&amp;lt;&amp;lt; %c4Type% &amp;gt;&amp;gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;" id="iUdhUudq_p8aYWjPXkn9-9">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e3c800;fontColor=#FFFFFF;align=center;arcSize=6;strokeColor=#B09500;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="iUdhUudq_p8aYWjPXkn9-1">
-            <mxGeometry x="180" y="180" width="240" height="120" as="geometry" />
+            <mxGeometry x="180" y="280" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Activities Manager" c4Type="component" c4Technology="e.g. Spring Service" c4Description="CRUD operations for activities" label="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;div&gt;&amp;lt;&amp;lt; %c4Type% &amp;gt;&amp;gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;" id="iUdhUudq_p8aYWjPXkn9-10">
@@ -2250,7 +2250,7 @@
         </object>
         <object placeholders="1" c4Name="Alerts Module" c4Type="plugin" c4Technology="e.g. Spring Service" c4Description="Broadcast alerts to clients" label="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;div&gt;&amp;lt;&amp;lt; %c4Type% &amp;gt;&amp;gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;" id="iUdhUudq_p8aYWjPXkn9-15">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e3c800;fontColor=#FFFFFF;align=center;arcSize=6;strokeColor=#B09500;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="iUdhUudq_p8aYWjPXkn9-1">
-            <mxGeometry x="180" y="540" width="240" height="120" as="geometry" />
+            <mxGeometry x="180" y="560" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Notifications Queue" c4Type="Queue" c4Technology="RabbitMQ" c4Description="" label="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;div&gt;&lt;&lt; %c4Type% &gt;&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;/div&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&#xa;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;div&gt;[%c4Technology%]&lt;/div&gt;&lt;/font&gt;" id="iUdhUudq_p8aYWjPXkn9-16">
@@ -2383,6 +2383,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <object placeholders="1" c4Name="Activities Scheduler" c4Type="plugin" c4Technology="e.g. Spring Service" c4Description="Activities Feedback Plugin" label="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;div&gt;&amp;lt;&amp;lt; %c4Type% &amp;gt;&amp;gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;" id="IJ4OXC_JfVt2a1ypVvX_-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e3c800;fontColor=#FFFFFF;align=center;arcSize=6;strokeColor=#B09500;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="iUdhUudq_p8aYWjPXkn9-1">
+            <mxGeometry x="180" y="140" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
