@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.5" pages="24">
   <diagram name="Use Cases" id="p2EKxRobEqXZzoPl5qkg">
-    <mxGraphModel dx="2262" dy="1544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="970" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -806,7 +806,7 @@
           <mxGeometry x="1720" y="70" width="420" height="550" as="geometry" />
         </mxCell>
         <mxCell id="1aCga_JMzAiOdnaTURiq-54" value="Event App" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1aCga_JMzAiOdnaTURiq-16">
-          <mxGeometry x="90" y="110" width="280" height="150" as="geometry" />
+          <mxGeometry x="90" y="110" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1aCga_JMzAiOdnaTURiq-56" value="View the schedule for today" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1aCga_JMzAiOdnaTURiq-54">
           <mxGeometry y="30" width="280" height="30" as="geometry" />
@@ -814,11 +814,8 @@
         <mxCell id="1aCga_JMzAiOdnaTURiq-57" value="View information about the activities" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1aCga_JMzAiOdnaTURiq-54">
           <mxGeometry y="60" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1aCga_JMzAiOdnaTURiq-59" value="Receive push notifications" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1aCga_JMzAiOdnaTURiq-54">
-          <mxGeometry y="90" width="280" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="1aCga_JMzAiOdnaTURiq-68" value="..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1aCga_JMzAiOdnaTURiq-54">
-          <mxGeometry y="120" width="280" height="30" as="geometry" />
+          <mxGeometry y="90" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1aCga_JMzAiOdnaTURiq-60" value="Admin Dashboard" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1aCga_JMzAiOdnaTURiq-16">
           <mxGeometry x="90" y="280" width="280" height="210" as="geometry" />
